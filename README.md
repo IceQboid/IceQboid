@@ -1,13 +1,13 @@
 # 🧊IceQboid
 **`EchoLogic(Developer/Enthusiastic Learner)`**
-# 👨‍💻 Computer Science Student | AI & ML Enthusiast 🤖
-# 🌱 Exploring the fascinating world of Artificial Intelligence
-# 💡 Passionate about Machine Learning and Data Science
-# 🔧 Turning code into insights
-# 🚀 Always learning and building, one line at a time
-# 📚 Constantly expanding my knowledge in Python, TensorFlow, and PyTorch
-# 📊 Data-driven decision maker
-# 🤖 Automating the future, one algorithm at a time
+👨‍💻 Computer Science Student | AI & ML Enthusiast 🤖
+🌱 Exploring the fascinating world of Artificial Intelligence
+💡 Passionate about Machine Learning and Data Science
+🔧 Turning code into insights
+🚀 Always learning and building, one line at a time
+📚 Constantly expanding my knowledge in Python, TensorFlow, and PyTorch
+📊 Data-driven decision maker
+🤖 Automating the future, one algorithm at a time
 
 <p align="center">
     <a href="https://github.com/IceQboid?tab=repositories&sort=stargazers">
