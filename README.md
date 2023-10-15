@@ -51,6 +51,10 @@
       <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow logoColor=white"></a>
       <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AIceQboid+language%3AFlutter">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+</a>
+
   </p> 
 
   <h3>💻 Software and Tools</h3>
