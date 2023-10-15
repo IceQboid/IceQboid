@@ -63,7 +63,7 @@
 
 #
   
-  
+<h3>🔥 Streak Stats</h3>  
 <p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IceQboid&theme=iceberg&border_radius=10" alt="GitHub Streak" /></a>
 </p>
