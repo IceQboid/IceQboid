@@ -1,6 +1,6 @@
 # 🧊IceQboid
 **`EchoLogic(Developer/Enthusiastic Learner)`**
-<p>👨‍💻 Computer Science Student | AI & ML Enthusiast 🤖</p>
+<p>👨‍💻 Computer Science Graduate | AI & ML Enthusiast 🤖</p>
 <p>🌱 Exploring the fascinating world of Artificial Intelligence</p>
 <p>💡 Passionate about Machine Learning and Data Science</p>
 <p>🔧 Turning code into insights</p>
